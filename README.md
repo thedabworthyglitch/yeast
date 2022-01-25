@@ -17,8 +17,6 @@ Due to lack of time, I was unable to implement more features such as Soundcloud 
 - Supports Spotify playlist, track and albums.
 
 ### ‣ How to setup?
-You can watch this video for easy understanding to setup this app
-
 
 As soon as you install the app, it will ask for few values which are described below and after the installation make sure to set timeout(ms) value `30000`.
 
