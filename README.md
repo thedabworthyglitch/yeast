@@ -1,8 +1,11 @@
 # Yeast
 Yeast is a one command discord music bot with GUI based functionalities
 
-#Note
+# Note
 This repo is just a skeleton to be hosted, you do have to, however, use your own discord api auth tokens and secret keys to use and make this bot your own.
+Or, alternatively, you can use my prebuilt bot invite link 
+
+# https://discord.com/api/oauth2/authorize?client_id=924745779279716402&permissions=36830288&scope=bot
 
 # ✨ Yeast Music Bot
 Everybody gets so excited when they hear about music bots. I always hear people asking "how to make a music bot", "how can I get a music bot for free" etc.
